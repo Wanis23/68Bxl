@@ -1,0 +1,16 @@
+
+.hidden-set {
+    display: none;
+}
+
+@media only screen and (max-width: 400px) {
+  .img-set{
+      width: 98%;;
+  }
+}
+
+@media only screen and (min-width: 401px) {
+    .img-set{
+        width: 100%;;
+    }
+  }
